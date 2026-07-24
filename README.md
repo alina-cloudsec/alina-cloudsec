@@ -15,5 +15,5 @@ Focused on application security, networks, and cloud-native systems.
 - **Tools:** Git, Linux Command Line
 
 ### Stats
-![Alina's Stats](https://vercel.app)
+![Alina's GitHub Streak](https://demolab.com)
 
