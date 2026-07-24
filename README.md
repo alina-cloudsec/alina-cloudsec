@@ -1,16 +1,19 @@
-## Hi there 👋
+# alina-cybersec
 
-<!--
-**alina-cloudsec/alina-cloudsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Cyber Security @ SMIU. 
+Focused on application security, networks, and cloud-native systems.
 
-Here are some ideas to get you started:
+```text
+\$ status --current
+> Shifting from C/C++ to Python & Go
+> Learning Linux internals & container security
+> Prep for CNCF LFX Mentorship (Term 3)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- **Languages:** C, C++ (actively learning Python)
+- **Tools:** Git, Linux Command Line
+
+### Stats
+![Alina's Stats](https://vercel.app)
+
