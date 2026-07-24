@@ -14,6 +14,11 @@ Focused on application security, networks, and cloud-native systems.
 - **Languages:** C, C++ (actively learning Python)
 - **Tools:** Git, Linux Command Line
 
-### Stats
-![Alina's GitHub Streak](https://demolab.com)
-
+### Identity Metrics
+```json
+{
+  "account_status": "Active Undergraduate",
+  "verified_nodes": ["Linux Terminal", "Git Workflow Engine"],
+  "target_lifecycles": ["CNCF LFX Term 3"]
+}
+```
