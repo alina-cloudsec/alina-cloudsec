@@ -1,31 +1,19 @@
-# Hi there, I'm alina-cybersec
-### BS Cyber Security @ SMIU | Future Cloud Native Security Engineer
+# Hi there, I'm Alina 👋
 
-```json
-{
-  "focus": ["Application Security", "Network Security", "Cloud-Native Systems"],
-  "current_goal": "Preparing for CNCF LFX Mentorship"
-}
-```
+BS Cyber Security @ SMIU.  
+Focused on application security, networks, and cloud-native systems.
 
----
-
-###  $ status --current
+### 💻 $ status --current
 ```bash
 > Shifting from C/C++ to Python & Go
 > Learning Linux internals & container security
-> Prep for CNCF LFX Mentorship
+> Prep for CNCF LFX Mentorship (Term 3)
 ```
 
----
+### 🛠️ Tech Stack & Tools
 
-###  My Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Go](https://shields.io) |
-| **Tools & OS** | ![Git](https://shields.io) ![Linux](https://shields.io) ![Bash](https://shields.io) |
-| **Target Domains** | ![Kubernetes](https://shields.io) ![Docker](https://shields.io) |
+* **Languages:** ![C](https://shields.io) ![C++](https://shields.io) *(Actively learning Python & Go)*
+* **Tools & OS:** ![Git](https://shields.io) ![Linux](https://shields.io) ![Bash](https://shields.io)
 
 ---
 
