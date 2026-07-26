@@ -22,11 +22,8 @@ Focused on application security, networks, and cloud-native systems.
   <img src="https://vercel.app" alt="GitHub Stats" />
 </div>
 
-
-<!-- Streak Stats Card -->
 <img src="https://streak-stats.demolab.com/?user=alina-cloudsec&theme=dark&hide_border=false" alt="Alina's Streak" /><br/><br/>
 
-<!-- Top Languages Card (Fixed Server) -->
 <div align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </div>
@@ -41,10 +38,14 @@ Focused on application security, networks, and cloud-native systems.
 </div>
 
 
+
 ---
 
 ###  Top Contributed Repo
-img src="https://github-contributor-stats.vercel.app/api?username=alinacloudsec&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" /><br/><br/>
+<div align="center">
+  <img src="https://vercel.app" alt="Top Contributed Repos" />
+</div>
+
 
 ---
 
@@ -53,15 +54,15 @@ img src="https://github-contributor-stats.vercel.app/api?username=alinacloudsec&
   <img src="https://vercel.app" alt="Dev Quote" />
 </div>
 
+
 ---
 
 ##  Socials:
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:alinacloudsec@gmail.com">
     <img src="https://shields.io" alt="Email Me" />
   </a>
 </div>
-
 
 
 !-- Profile Visitor Counter -->
