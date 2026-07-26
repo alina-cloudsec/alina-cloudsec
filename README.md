@@ -18,10 +18,11 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Stats
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 
 ###  GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=alina-cloudsec&theme=dark&hide_border=false" alt="Alina's Streak" /><br/><br/>
+![GitHub Streak](https://githubusercontent.com)
+
 
 ###  Top languages
 <div align="center">
@@ -31,12 +32,7 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Trophies
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="GitHub Trophies" />
-  </a>
-</div>
-
+![GitHub Trophies](https://githubusercontent.com)
 
 
 ---
