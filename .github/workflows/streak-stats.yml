@@ -1,4 +1,5 @@
-name: Update streak stats
+name: Update streak and profile stats
+
 
 on:
   schedule:
