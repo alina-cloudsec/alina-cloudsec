@@ -13,7 +13,7 @@ Focused on application security, networks, and cloud-native systems.
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) *(Actively learning  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) )*
-* **Tools & OS:** <p align="left"> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a> </p>   <p align="left"> <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/> </a> </p>   <p align="left"> <a href="https://gnu.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="bash" width="40" height="40"/> </a> </p>
+* **Tools & OS:** ![git](https://vectorlogo.zone) ![linux](https://githubusercontent.com) ![bash](https://vectorlogo.zone)
 
   
 ---
