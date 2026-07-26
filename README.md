@@ -18,32 +18,50 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Stats
-<!-- Main Stats Card (Fixed Server & Enabled Private Commits) -->
-<img src="https://vercel.app" alt="Alina's GitHub Stats" /><br/><br/>
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</div>
+
 
 <!-- Streak Stats Card -->
 <img src="https://streak-stats.demolab.com/?user=alina-cloudsec&theme=dark&hide_border=false" alt="Alina's Streak" /><br/><br/>
 
 <!-- Top Languages Card (Fixed Server) -->
-<img src="https://vercel.app" alt="Alina's Top Languages" /><br/><br/>
+<div align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</div>
+
 ---
 
 ##  GitHub Trophies
-<img src="https://vercel.app" alt="GitHub Trophies" /><br/><br/>
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 ---
 
 ###  Top Contributed Repo
-img src="https://github-contributor-stats.vercel.app/api?username=alina-cloudsec&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" /><br/><br/>
+img src="https://github-contributor-stats.vercel.app/api?username=alinacloudsec&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" /><br/><br/>
 
 ---
 
 ###  Random Dev Quote
-<img src="https://vercel.app" alt="Dev Quote" /><br/><br/>
+<div align="center">
+  <img src="https://vercel.app" alt="Dev Quote" />
+</div>
+
 ---
 
 ##  Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alinamoin217@gmail.com)
+<div align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://shields.io" alt="Email Me" />
+  </a>
+</div>
+
 
 
 !-- Profile Visitor Counter -->
