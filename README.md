@@ -12,8 +12,8 @@ Focused on application security, networks, and cloud-native systems.
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:**[C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) *(Actively learning  *(Actively learning  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) )*
-* **Tools & OS:** ![Git](https://shields.io) ![Linux](https://shields.io) ![Bash](https://shields.io)
+* **Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) *(Actively learning  *(Actively learning  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) )*
+* **Tools & OS:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -22,15 +22,17 @@ Focused on application security, networks, and cloud-native systems.
   <img src="https://vercel.app" alt="GitHub Stats" />
 </div>
 
+###  GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=alina-cloudsec&theme=dark&hide_border=false" alt="Alina's Streak" /><br/><br/>
 
+###  Top languages
 <div align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </div>
 
 ---
 
-##  GitHub Trophies
+###  GitHub Trophies
 <div align="center">
   <a href="https://github.com">
     <img src="https://vercel.app" alt="GitHub Trophies" />
