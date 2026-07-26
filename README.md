@@ -18,11 +18,10 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Stats
-
-
-###  GitHub Streak
 ![GitHub Streak](https://githubusercontent.com)
 
+###  GitHub Streak
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ###  Top languages
 <div align="center">
