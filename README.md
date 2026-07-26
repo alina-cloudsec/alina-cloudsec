@@ -18,7 +18,7 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Stats
-![GitHub Streak](https://githubusercontent.com)
+ [./profile/stats.svg]
 
 ###  GitHub Streak
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
