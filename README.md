@@ -18,9 +18,7 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ###  GitHub Stats
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ###  GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=alina-cloudsec&theme=dark&hide_border=false" alt="Alina's Streak" /><br/><br/>
