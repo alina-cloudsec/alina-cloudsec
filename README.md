@@ -24,30 +24,24 @@ Focused on application security, networks, and cloud-native systems.
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ###  Top languages
-<div align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</div>
+
 
 ---
 
 ###  GitHub Trophies
-![GitHub Trophies](https://githubusercontent.com)
+
 
 
 ---
 
 ###  Top Contributed Repo
-<div align="center">
-  <img src="https://vercel.app" alt="Top Contributed Repos" />
-</div>
+
 
 
 ---
 
 ###  Random Dev Quote
-<div align="center">
-  <img src="https://vercel.app" alt="Dev Quote" />
-</div>
+
 
 
 ---
@@ -64,8 +58,7 @@ Focused on application security, networks, and cloud-native systems.
 
 ---
 
-!-- Profile Visitor Counter -->
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p> 
+## Profile Visitor Counter
+<p align="left"> <img src="https://komarev.com" alt="alina-cloudsec" /> </p>
+
 
