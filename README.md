@@ -53,12 +53,16 @@ Focused on application security, networks, and cloud-native systems.
 ---
 
 ##  Socials:
-<div align="center">
-  <a href="mailto:alinacloudsec@gmail.com">
-    <img src="https://shields.io" alt="Email Me" />
-  </a>
-</div>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) alinamoin217@gmail.com
 
+
+---
+
+##  Badges:
+ ### My LFC102: Inclusive Open Source Community Orientation badge url:
+ https://www.credly.com/badges/84d87231-d184-4fca-bb5a-d60a3b972233/public_url
+
+---
 
 !-- Profile Visitor Counter -->
 <p align="left">
