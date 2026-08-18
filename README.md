@@ -39,7 +39,7 @@ Focused on application security, networks, and cloud-native systems.
 
 ---
 
-##  Certificates & Badges:
+##  Certificates:
  ### Certified Meshery Contributor (CMC) — Meshery CLI
  Passed the official Meshery CLI assessment, demonstrating hands-on understanding of `mesheryctl` architecture, command structure, and the open-source contribution workflow.
  [View Result](https://github.com/alina-cloudsec/alina-cloudsec/blob/main/cmc_result.png)
@@ -47,7 +47,13 @@ Focused on application security, networks, and cloud-native systems.
  ### LFC102: Inclusive Open Source Community Orientation
  Completed the Linux Foundation's course on respectful open-source collaboration, community communication norms, and documentation best practices.
  [View Credly Badge](https://www.credly.com/badges/84d87231-d184-4fca-bb5a-d60a3b972233/public_url)
- 
+
+---
+
+##  Badges:
+
+ <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="150" alt="Design Pioneer Badge">
+
 ---
 
 ## Profile Visitor Counter
