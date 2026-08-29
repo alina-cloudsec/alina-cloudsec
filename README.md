@@ -5,6 +5,8 @@ Focused on application security, networks, and cloud-native systems.
 
 ###  $ status --current
 ```bash
+> Taking Harvard's CS50 Cybersecurity course right now
+> Currently waiting for assignment results (takes up to 3 weeks)
 > Shifting from C/C++ to Go
 > Learning Linux internals, Docker, and container security
 > Prep for CNCF LFX Mentorship (Term 3)
