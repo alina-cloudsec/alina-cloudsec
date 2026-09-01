@@ -6,7 +6,6 @@ Focused on application security, networks, and cloud-native systems.
 ###  $ status --current
 ```bash
 > Taking Harvard's CS50 Cybersecurity course right now
-> Currently waiting for assignment results (takes up to 3 weeks)
 > Shifting from C/C++ to Go
 > Learning Linux internals, Docker, and container security
 > Prep for CNCF LFX Mentorship (Term 3)
@@ -43,6 +42,14 @@ Focused on application security, networks, and cloud-native systems.
 
 ##  Certificates:
 
+ ### CS50 Introduction to Cyber Security — Harvard University
+ Completed Harvard's foundational cybersecurity course, covering data security, cryptography basics, network firewalls, threat identification, and software defense mechanics through hands on technical labs and a real world final case study.
+ [View Certificate](https://certificates.cs50.io/bb21347a-f2c5-4f64-8fa5-19e561cfec4b.pdf?size=letter)
+ 
+ ### Implement cloud security fundamental on google cloud skill
+ Earned this intermediate skill badge by completing 7 hands-on labs covering Cloud IAM, Custom Roles, Service Accounts, VPC Peering, Identity-Aware Proxy (IAP), Cloud KMS encryption, and   Private GKE Clusters.
+ [View Credly Badge](https://www.credly.com/badges/c8648603-f693-47fd-8798-4492ae5648d8/public_url)
+
  ### Certified Meshery Contributor (CMC) — Meshery CLI
  Passed the official Meshery CLI assessment, demonstrating hands-on understanding of `mesheryctl` architecture, command structure, and the open-source contribution workflow.
  [View Result](https://github.com/alina-cloudsec/alina-cloudsec/blob/main/cmc_result.png)
@@ -50,11 +57,6 @@ Focused on application security, networks, and cloud-native systems.
  ### LFC102: Inclusive Open Source Community Orientation
  Completed the Linux Foundation's course on respectful open-source collaboration, community communication norms, and documentation best practices.
  [View Credly Badge](https://www.credly.com/badges/84d87231-d184-4fca-bb5a-d60a3b972233/public_url)
-
- ### Implement cloud security fundamental on google cloud skill
-Earned this intermediate skill badge by completing 7 hands-on labs covering Cloud IAM, Custom Roles, Service Accounts, VPC Peering, Identity-Aware Proxy (IAP), Cloud KMS encryption, and Private GKE Clusters.
-[View Credly Badge](https://www.credly.com/badges/c8648603-f693-47fd-8798-4492ae5648d8/public_url)
-
 
 ---
 
